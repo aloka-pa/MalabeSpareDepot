@@ -29,23 +29,17 @@ public class Main {
                 50,
                 "Electrical"
         );
+		
+		int lowStockThreshold = 10;
 
-        System.out.println("========= INVENTORY =========");
-        System.out.println();
+		for (int i = 0; i < inventory.length; i++) {
 
-        for (int i = 0; i < inventory.length; i++) {
+			inventory[i].displayPart();
 
-            System.out.println("Code: " + inventory[i].getCode());
-            System.out.println("Name: " + inventory[i].getName());
-            System.out.println("Brand: " + inventory[i].getBrand());
-            System.out.println("Price: " + inventory[i].getPrice());
-            System.out.println("Quantity: " + inventory[i].getQuantity());
-            System.out.println("Category: " + inventory[i].getCategory());
-
-            System.out.println("----------------------------");
-            System.out.println();
-        }
-
-        System.out.println("Total Parts: " + inventory.length);
+			if (inventory[i].isLowStock(lowStockThreshold)) {
+				System.out.println("*** LOW STOCK ***");
+				System.out.println();
+			}
+		}
     }
 }

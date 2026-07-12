@@ -45,4 +45,22 @@ public class Part {
     public String getCategory() {
         return category;
     }
+	
+	public boolean isLowStock(int threshold) {
+    return quantity < threshold;
+	}
+	
+	public void displayPart() {
+
+    System.out.println("Code: " + code);
+    System.out.println("Name: " + name);
+    System.out.println("Brand: " + brand);
+    System.out.println("Price: " + price);
+    System.out.println("Quantity: " + quantity);
+    System.out.println("Category: " + category);
+    System.out.println("----------------------------");
+    System.out.println();
+	}
+	
+	
 }
