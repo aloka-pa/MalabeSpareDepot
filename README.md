@@ -225,9 +225,9 @@ Note: Full input validation for part creation and updates across every required 
 
 
 ### 7.4 Search filters combined
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/538326c3-afe3-4736-974a-eeffea150243" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fd99bdb9-24cd-4ca3-a1e1-ecfa684bc1f5" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5e2d63f6-5e95-423f-ba4e-5afa6de28245" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ef04d440-9da6-4211-948a-d9532ffc13fc" />
+<img width="1916" height="1079" alt="image" src="https://github.com/user-attachments/assets/658fe819-d092-4b01-8c2f-ae99e8f8358d" />
+
 
 ### 7.5 Low-stock warnings
 <img width="1913" height="1077" alt="image" src="https://github.com/user-attachments/assets/dbcb0f03-8eea-4824-81a2-a60441a2a20a" />
@@ -241,11 +241,12 @@ Note: Full input validation for part creation and updates across every required 
 
 
 ### 7.7 Checkout cart and totals
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c098077a-7553-4b16-bf33-4c1f833fe8a9" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/05b0d1e0-1442-45e3-a9d3-474b84017ab1" />
 
 
 ### 7.8 Checkout completed
-<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/8f596bca-a647-4174-8dc5-7d4e466d40f8" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/297c0704-798a-41fc-8f84-30e49081a851" />
+
 
 
 ### 7.9 Audit log sample
