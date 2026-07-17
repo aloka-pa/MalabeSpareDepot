@@ -33,7 +33,7 @@ This repository is built for coursework assessment with strong focus on:
   - [6.4 audit_log.txt](#64-audit_logtxt)
 - [7. Screenshot Guide](#7-screenshot-guide)
 - [8. Known Assumptions](#8-known-assumptions)
-- [9. Author and Module Information](#9-author-and-module-information)
+- [9. Author and Disclaimer](#9-author-and-disclaimer)
 
 ## 1. Project Objective
 
@@ -261,10 +261,11 @@ Note: Full input validation for part creation and updates across every required 
 - Threshold defaults to 10 when settings file is missing or invalid
 - Dealer count lower than four returns all available unique dealers
 
-## 9. Author and Module Information
+## 9. Author and Disclaimer
 
-- Module: Java and OOP coursework project
-- Project: Malabe Tuk-Tuk and Three-Wheeler Spares Depot Inventory System
-- Technology: Java, JavaFX, plain text persistence
+**Author:** Aloka Pathiraja  
+**Institution:** Informatics Institute of Technology (IIT) affiliated with the University of Westminster
 
-If you are reviewing this repository, check the screenshot section first and then architecture for the fastest understanding of the implementation.
+### Disclaimer
+This repository was developed solely for academic coursework and demonstration purposes.
+The project specification, design decisions, implementation, source code, documentation, and UI presented in this repository are the original work of the author unless explicitly stated otherwise.
